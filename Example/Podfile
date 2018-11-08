@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'WSNews_Example' do
+  pod 'WSNews', :path => '../'
+
+  target 'WSNews_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase'
+  end
+end
