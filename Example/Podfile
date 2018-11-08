@@ -6,6 +6,5 @@ target 'WSNews_Example' do
   target 'WSNews_Tests' do
     inherit! :search_paths
 
-    pod 'FBSnapshotTestCase'
   end
 end

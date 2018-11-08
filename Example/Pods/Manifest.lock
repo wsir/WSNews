@@ -1,0 +1,16 @@
+PODS:
+  - WSNews (0.1.0)
+
+DEPENDENCIES:
+  - WSNews (from `../`)
+
+EXTERNAL SOURCES:
+  WSNews:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WSNews: 7d8adf97a0b16e00d9120060975cee0ab6dd6776
+
+PODFILE CHECKSUM: 48d23741d68b0a64adb6e1889d59b14eb9a129e8
+
+COCOAPODS: 1.6.0.beta.2

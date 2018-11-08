@@ -1,0 +1,6 @@
+framework module WSNews {
+  umbrella header "WSNews-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "WSNews",
+  "version": "0.1.0",
+  "summary": "A short description of WSNews.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/351473007@qq.com/WSNews",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "351473007@qq.com": "wangsai@mia.com"
+  },
+  "source": {
+    "git": "https://github.com/351473007@qq.com/WSNews.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "WSNews/Classes/**/*"
+}
